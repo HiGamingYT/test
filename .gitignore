@@ -1,0 +1,7 @@
+.env
+*.env
+selfbot_data.json
+__pycache__/
+*.pyc
+venv/
+.venv/
